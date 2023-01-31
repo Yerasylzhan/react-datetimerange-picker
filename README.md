@@ -1,3 +1,8 @@
+1) Open this folder with VS code or whatever
+2) Write "npm i" into terminal
+3) Write "npm install react-date-range"
+4) Write "npm start" and enjoy
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
